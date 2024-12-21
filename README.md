@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Akash S G</h1>
 <h3 align="center">A passionate AI-ML Developer from India</h3>
 
+![Logo](https://github.com/akash247777/akash247777/blob/main/Blue%20Futuristic%20Artificial%20Intelligence%20Presentation%20(1).gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-s-ge&label=Profile%20views&color=0e75b6&style=flat" alt="akash-s-ge" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-s-ge" alt="akash-s-ge" /></a> </p>
