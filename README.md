@@ -1,4 +1,4 @@
-![Logo](https://github.com/akash247777/akash247777/blob/main/Blue%20Futuristic%20Artificial%20Intelligence%20Presentation.gif)
+![Logo](https://github.com/akash247777/akash247777/blob/main/image.webp)
 <h1 align="center">Hi 👋, I'm Akash S G</h1>
 <h3 align="center">A passionate AI-ML Developer from India</h3>
 
