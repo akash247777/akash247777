@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akashsg247@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O9TdVidMwJNti3SvqXyydO2ChY1qQHPR/view?usp=sharing](https://drive.google.com/file/d/1O9TdVidMwJNti3SvqXyydO2ChY1qQHPR/view?usp=sharing)
+- 📄 Know about my experiences https://www.linkedin.com/in/akashsgnie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
